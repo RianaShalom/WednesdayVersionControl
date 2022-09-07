@@ -1,5 +1,6 @@
 body {font-family:Georgia, 'Times New Roman', Times, serif ;}
-h1 {color: rgb(112, 133, 16);}
-h3 {color: red;}
-p {color: white; background: brown;}
-footer {color: rgb(111, 111, 111); font-size: smaller}
+h1 {color: magenta;}
+h2 {color: green;}
+h3 {color: blue;}
+p {color: lime; background: brown;}
+footer {color: lime;background: purple;}
